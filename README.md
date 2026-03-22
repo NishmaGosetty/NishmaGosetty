@@ -1,37 +1,32 @@
 # 👋 Hi, I'm Nishma Gosetty
 
+![Profile Views](https://komarev.com/ghpvc/?username=NishmaGosetty&color=blue)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Backend+Developer;Cybersecurity+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 🎓 B.Tech CSE (Cybersecurity) Student  
-💻 Building real-world projects in ML, Backend & Security  
+💻 Building real-world projects in Machine Learning, Backend Systems & Security  
 🚀 Focused on becoming industry-ready through practical learning  
 
 ---
 
 ## 🧠 About Me
 
-I am a highly motivated computer science student focused on developing strong technical skills through hands-on projects and continuous learning.
+I am a motivated computer science student focused on building strong technical skills through real-world projects and continuous learning.
 
-I enjoy working on real-world systems that combine:
+I enjoy working on systems that combine:
 - Machine Learning  
 - Backend Engineering  
 - Security Principles  
-
-Currently, I am:
-- 📊 Strengthening ML fundamentals  
-- 🔐 Building secure backend systems  
-- ⚙️ Exploring system design concepts  
 
 ---
 
 ## ⚒️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,java,nodejs,express,django,mongodb,git,linux,postman" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,java,nodejs,express,django,mongodb,git,linux,postman" />
 </p>
 
 ### 📊 Data & ML
@@ -44,6 +39,16 @@ Currently, I am:
 - Object-Oriented Programming  
 - DBMS  
 - Operating Systems  
+
+---
+
+## 🧰 Tools I Use Daily
+
+- VS Code  
+- Git & GitHub  
+- Postman  
+- MongoDB Atlas  
+- Linux Terminal  
 
 ---
 
@@ -72,6 +77,12 @@ A full-stack application with JWT authentication, secure APIs, and protected adm
 
 ---
 
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/NishmaGosetty/NishmaGosetty/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🏆 Achievements
 
 - 🥇 1st Place – TechKnowthon Hackathon (2025)  
@@ -94,11 +105,12 @@ A full-stack application with JWT authentication, secure APIs, and protected adm
 
 ---
 
-## 📈 Currently Working On
+## 📈 Learning Roadmap
 
-- Improving ML model building & evaluation  
-- Strengthening backend architecture  
-- Learning advanced security concepts  
+- Advanced Machine Learning  
+- Backend System Design  
+- API Security & Authentication  
+- Scalable Application Architecture  
 
 ---
 
@@ -114,5 +126,7 @@ A full-stack application with JWT authentication, secure APIs, and protected adm
 </p>
 
 ---
+
+💡 *I believe consistency beats talent when talent doesn’t stay consistent.*
 
 ⭐ *Always learning. Always building. Always improving.*
