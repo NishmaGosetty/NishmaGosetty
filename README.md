@@ -14,25 +14,25 @@
 
 ## 🧠 About Me
 
-I am a motivated computer science student focused on building strong technical skills through real-world projects and continuous learning.
+I am a highly motivated computer science student focused on building strong technical skills through real-world projects and continuous learning.
 
 I enjoy working on systems that combine:
 - Machine Learning  
 - Backend Engineering  
 - Security Principles  
 
+Currently, I am:
+- 📊 Strengthening ML fundamentals  
+- 🔐 Building secure backend systems  
+- ⚙️ Exploring system design concepts  
+
 ---
 
-## ⚒️ Tech Stack
+## ⚒️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,nodejs,express,django,mongodb,git,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,nodejs,express,django,mongodb,git,linux,postman,streamlit" />
 </p>
-
-### 📊 Data & ML
-- Pandas  
-- NumPy  
-- TSFresh  
 
 ### 🧩 Core Concepts
 - Data Structures & Algorithms  
@@ -40,10 +40,7 @@ I enjoy working on systems that combine:
 - DBMS  
 - Operating Systems  
 
----
-
-## 🧰 Tools I Use Daily
-
+### 🧰 Daily Tools
 - VS Code  
 - Git & GitHub  
 - Postman  
@@ -55,31 +52,52 @@ I enjoy working on systems that combine:
 ## 🚀 Featured Projects
 
 ### 🔹 FitPulse – Health Anomaly Detection System
-An end-to-end ML pipeline for analyzing fitness data and detecting anomalies using time-series techniques and an interactive dashboard.
+End-to-end ML pipeline for analyzing fitness device data and detecting anomalies using time-series techniques. Interactive Streamlit dashboard included.  
 
-🔗 https://github.com/NishmaGosetty/fitpulse-health-anomaly-detection-ml
+**Tech:** Python, TSFresh, Pandas, NumPy, Streamlit, Plotly  
+
+<p align="center">
+  <img src="ss1.png" width="45%" alt="Dashboard & Data Ingestion"/>
+  <img src="ss2.png" width="45%" alt="Graphs & Forecasting"/>
+</p>
+<p align="center">
+  <img src="ss3.png" width="45%" alt="Anomalies"/>
+  <img src="ss4.png" width="45%" alt="Data Intelligence & Feature Sets"/>
+</p>
+
+🔗 [View Repository](https://github.com/NishmaGosetty/fitpulse-health-anomaly-detection-ml)  
 
 ---
 
 ### 🔹 Triptastic – Secure Travel Platform
-A full-stack application with JWT authentication, secure APIs, and protected admin operations.
+Full-stack travel management application with JWT authentication and protected admin operations.  
 
-🔗 https://github.com/NishmaGosetty/triptastic-secure-travel-platform
+**Tech:** Node.js, Express.js, MongoDB, JWT, HTML, CSS, JS  
+
+<p align="center">
+  <img src="tt1.png" width="45%" alt="Public Home Page"/>
+  <img src="tt2.png" width="45%" alt="Admin Login"/>
+</p>
+<p align="center">
+  <img src="tt3.png" width="45%" alt="Admin Dashboard"/>
+</p>
+
+🔗 [View Repository](https://github.com/NishmaGosetty/triptastic-secure-travel-platform)  
+
+---
+
+### 🔹 Other Projects
+- **Currency Converter WebApp** – [Repo](https://github.com/NishmaGosetty/currency-converter-webapp)  
+- **Mastering Git Branches** – [Repo](https://github.com/NishmaGosetty/Mastering-Git-Branches)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishmaGosetty&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishmaGosetty&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NishmaGosetty&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishmaGosetty&theme=tokyonight" width="48%" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/NishmaGosetty/NishmaGosetty/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -127,6 +145,6 @@ A full-stack application with JWT authentication, secure APIs, and protected adm
 
 ---
 
-💡 *I believe consistency beats talent when talent doesn’t stay consistent.*
+💡 *I believe consistency beats talent when talent doesn’t stay consistent.*  
 
 ⭐ *Always learning. Always building. Always improving.*
