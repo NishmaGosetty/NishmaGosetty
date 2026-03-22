@@ -57,12 +57,12 @@ End-to-end ML pipeline for analyzing fitness device data and detecting anomalies
 **Tech:** Python, TSFresh, Pandas, NumPy, Streamlit, Plotly  
 
 <p align="center">
-  <img src="ss1.png" width="45%" alt="Dashboard & Data Ingestion"/>
-  <img src="ss2.png" width="45%" alt="Graphs & Forecasting"/>
+  <img src="screenshots/ss1.png" width="45%" alt="Dashboard & Data Ingestion"/>
+  <img src="screenshots/ss2.png" width="45%" alt="Graphs & Forecasting"/>
 </p>
 <p align="center">
-  <img src="ss3.png" width="45%" alt="Anomalies"/>
-  <img src="ss4.png" width="45%" alt="Data Intelligence & Feature Sets"/>
+  <img src="screenshots/ss3.png" width="45%" alt="Anomalies"/>
+  <img src="screenshots/ss4.png" width="45%" alt="Data Intelligence & Feature Sets"/>
 </p>
 
 🔗 [View Repository](https://github.com/NishmaGosetty/fitpulse-health-anomaly-detection-ml)  
@@ -75,11 +75,11 @@ Full-stack travel management application with JWT authentication and protected a
 **Tech:** Node.js, Express.js, MongoDB, JWT, HTML, CSS, JS  
 
 <p align="center">
-  <img src="tt1.png" width="45%" alt="Public Home Page"/>
-  <img src="tt2.png" width="45%" alt="Admin Login"/>
+  <img src="screenshots/tt1.png" width="45%" alt="Public Home Page"/>
+  <img src="screenshots/tt2.png" width="45%" alt="Admin Login"/>
 </p>
 <p align="center">
-  <img src="tt3.png" width="45%" alt="Admin Dashboard"/>
+  <img src="screenshots/tt3.png" width="45%" alt="Admin Dashboard"/>
 </p>
 
 🔗 [View Repository](https://github.com/NishmaGosetty/triptastic-secure-travel-platform)  
